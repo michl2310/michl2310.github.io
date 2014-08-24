@@ -1,5 +1,6 @@
-michl2310.github.io
-===================
-website for awesomeness :O
+Check it out
 
-check it out at:  http://michl2310.github.io
+http://michl2310.github.io
+===================
+website for awesomeness :o
+
